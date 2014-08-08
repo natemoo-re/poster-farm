@@ -270,6 +270,14 @@ nav li a{
     margin: 20px 2.5%;
 }
 
+.latestPhotoCaption a{
+    color: #212A3F;
+}
+
+.latestPhotoCaption h4 a{
+    color: #8AB839;
+}
+
 #photo:hover{
     opacity: 1;
 }
